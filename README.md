@@ -13,7 +13,7 @@ Hello there!<br><br>Welcome to my GitHub profile! 🚀<br><br>I'm a passionate a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=balkacer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/balkacer) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/enmanuelbalcacer) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
